@@ -8,12 +8,8 @@ otro problema que tuve es al momento de la importacion de IconButtom, en app.js 
 lo que yo ise para que el refactoring no me de errores en la funcionalidad del proyecto, iba haciendo cambios y los iba probando 
 
 ¿Qué mejoras de rendimiento y mantenibilidad se lograron con el refactoring?
-<<<<<<< HEAD
-El refactoring algunos de los cambios y de las mejora que yo ise fue que intente reducir el codigo si que se biera afectado el codigo tambien agrege lo que es un marco dando la imprecion de que es un celular ya que el codigo proporcionado anteriormente no tenia esa parte y era como imagenes en el vacio tambien agrege lo que es un fondo al proyecto dentro del contenedor donde esta el proyecto del celular 
-=======
 
-El refactoring algunos de los cambios y de las mejoras que yo ise fue que intente reducir el codigo sin que se viera afectado el codigo tambien agrege lo que es un marco dando la imprecion de que es un celular ya que el codigo proporcionado anteriormente no tenia esa parte y era como imagenes en el vacio tambien se modifico lo que son los botones, la aplicacion esta completamente funcional se puede guarda y agrgar imagenes asi tambien como se puede colocar las imagenes 
->>>>>>> 241f451f3ee0c0311e4c0aa82b8ea589be1adf17
+El refactoring algunos de los cambios y de las mejora que yo ise fue que intente reducir el codigo si que se biera afectado el codigo tambien agrege lo que es un marco dando la imprecion de que es un celular ya que el codigo proporcionado anteriormente no tenia esa parte y era como imagenes en el vacio, se realizaron algunos cambios o modificaciones a lo que son los botones, tambien agrege lo que es un fondo al proyecto dentro del contenedor donde esta el proyecto del celular 
 
 ¿Cuáles fueron los desafíos más significativos durante el proceso de refactoring y cómo se superaron?
 
